@@ -1,0 +1,38 @@
+_repo: The-Heart-of-a-Dog_61429
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Kirmse, Marguerite
+    alias: Cole, Marguerite Kirmse
+    birthdate: 1885
+    deathdate: 1954
+    gutenberg_agent_id: '51421'
+    url: http://www.gutenberg.org/2009/agents/51421
+    wikipedia: https://en.wikipedia.org/wiki/Marguerite_Kirmse
+creator:
+  author:
+    agent_name: Terhune, Albert Payson
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '891'
+    url: http://www.gutenberg.org/2009/agents/891
+    wikipedia: https://en.wikipedia.org/wiki/Albert_Payson_Terhune
+description: ''
+gutenberg_issued: '2020-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61429'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PZ'
+- !lcsh 'Collie -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- GITenberg
+tableOfContents: Fox! -- The coming of Lad -- The meanest man -- The tracker -- "Youth
+  will be served!" -- Lochinvar Bobby -- "One minute longer" -- Afterward.
+title: The Heart of a Dog
+url: http://www.gutenberg.org/ebooks/61429
